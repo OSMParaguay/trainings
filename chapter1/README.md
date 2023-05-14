@@ -10,3 +10,5 @@ A map was created in Leaflet, then it was shown how to solve it when there is a 
 * CSS
 * JavaScript
 * Leaflet 1.9.3 [Leaflet official site](https://leafletjs.com/)
+* OSM
+* GeoJSON
