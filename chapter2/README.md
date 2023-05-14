@@ -1,4 +1,4 @@
-# Descripcion
+# Description
 
 This chapter of the training took place on Saturday, May 13 at 6:00 p.m. (GMT -4) on the OSM Paraguay channel on YouTube. [Training 2](https://www.youtube.com/watch?v=rfXrgUQh2cI)
 
@@ -16,5 +16,7 @@ We created an interactive map that shows the number of inhabitants of the depart
 
 ## Tools
 
- npm install -g topojson-client
- sudo geo2topo -o Departamentos.topo.json Departamentos.geojson
+```
+npm install -g topojson-client
+sudo geo2topo -o Departamentos.topo.json Departamentos.geojson
+```
