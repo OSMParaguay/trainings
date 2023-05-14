@@ -1,4 +1,4 @@
-# Descripcion
+# Description
 
 This chapter of the training took place on Saturday, May 6 at 6:00 p.m. (GMT -4) on the OSM Paraguay channel on YouTube. [Training 1](https://www.youtube.com/watch?v=Z8O_zmMxPJc)
 
